@@ -1,4 +1,5 @@
-Money Management 2022 :
+Money Management - JanuariToDesember:
 - Mengetahui Pengeluaran
 - Mengetahui Pemasukan
-- Mengetahui Persentase bunga
+- Mengetahui Persentase potongan
+
