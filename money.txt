@@ -1,3 +1,5 @@
 Money Management 2022 :
 - Mengetahui Pengeluaran
 - Mengetahui Pemasukan
+- Mengetahui Persentase bunga
+- Mengetahui Persentase potongan
